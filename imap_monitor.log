@@ -1,0 +1,347 @@
+01-08-2021 06:02:17 | imap_monitor | INFO | ... script started
+01-08-2021 06:02:17 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:02:17 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:02:17 | imap_monitor | INFO | server connection established
+01-08-2021 06:02:17 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:02:18 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:02:18 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:02:18 | imap_monitor | INFO | folder selected
+01-08-2021 06:02:18 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:02:23 | imap_monitor | INFO | ... script started
+01-08-2021 06:02:23 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:02:23 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:02:23 | imap_monitor | INFO | server connection established
+01-08-2021 06:02:23 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:02:23 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:02:23 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:02:23 | imap_monitor | INFO | folder selected
+01-08-2021 06:02:23 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:02:26 | imap_monitor | INFO | ... script started
+01-08-2021 06:02:26 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:02:26 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:02:26 | imap_monitor | INFO | server connection established
+01-08-2021 06:02:26 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:02:27 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:02:27 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:02:27 | imap_monitor | INFO | folder selected
+01-08-2021 06:02:27 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:02:51 | imap_monitor | INFO | ... script started
+01-08-2021 06:02:51 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:02:51 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:02:51 | imap_monitor | INFO | server connection established
+01-08-2021 06:02:51 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:02:51 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:02:51 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:02:51 | imap_monitor | INFO | folder selected
+01-08-2021 06:02:51 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:02:58 | imap_monitor | INFO | ... script started
+01-08-2021 06:02:58 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:02:58 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:02:58 | imap_monitor | INFO | server connection established
+01-08-2021 06:02:58 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:02:59 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:02:59 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:02:59 | imap_monitor | INFO | folder selected
+01-08-2021 06:02:59 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:04:26 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:05:56 | imap_monitor | INFO | ... script started
+01-08-2021 06:05:56 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:05:56 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:05:56 | imap_monitor | INFO | server connection established
+01-08-2021 06:05:56 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:05:57 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:05:57 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:05:57 | imap_monitor | INFO | folder selected
+01-08-2021 06:05:57 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:06:02 | imap_monitor | INFO | ... script started
+01-08-2021 06:06:02 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:06:02 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:06:03 | imap_monitor | INFO | server connection established
+01-08-2021 06:06:03 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:06:03 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:06:03 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:06:03 | imap_monitor | INFO | folder selected
+01-08-2021 06:06:03 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:06:13 | imap_monitor | INFO | ... script started
+01-08-2021 06:06:13 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:06:13 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:06:13 | imap_monitor | INFO | server connection established
+01-08-2021 06:06:13 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:06:13 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:06:13 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:06:13 | imap_monitor | INFO | folder selected
+01-08-2021 06:06:13 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:06:20 | imap_monitor | INFO | ... script started
+01-08-2021 06:06:20 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:06:20 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:06:20 | imap_monitor | INFO | server connection established
+01-08-2021 06:06:20 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:06:20 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:06:20 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:06:20 | imap_monitor | INFO | folder selected
+01-08-2021 06:06:20 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:06:24 | imap_monitor | INFO | ... script started
+01-08-2021 06:06:24 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:06:24 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:06:24 | imap_monitor | INFO | server connection established
+01-08-2021 06:06:24 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:06:25 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:06:25 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:06:25 | imap_monitor | INFO | folder selected
+01-08-2021 06:06:25 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:06:26 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:06:33 | imap_monitor | INFO | ... script started
+01-08-2021 06:06:33 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:06:33 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:06:33 | imap_monitor | INFO | server connection established
+01-08-2021 06:06:33 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:06:34 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:06:34 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:06:34 | imap_monitor | INFO | folder selected
+01-08-2021 06:06:34 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:08:26 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:10:26 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:12:26 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:12:38 | imap_monitor | INFO | ... script started
+01-08-2021 06:12:38 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:12:38 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:12:38 | imap_monitor | INFO | server connection established
+01-08-2021 06:12:38 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:12:38 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:12:38 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:12:38 | imap_monitor | INFO | folder selected
+01-08-2021 06:12:38 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:12:45 | imap_monitor | INFO | ... script started
+01-08-2021 06:12:45 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:12:45 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:12:45 | imap_monitor | INFO | server connection established
+01-08-2021 06:12:45 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:12:45 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:12:45 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:12:45 | imap_monitor | INFO | folder selected
+01-08-2021 06:12:45 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:12:48 | imap_monitor | INFO | ... script started
+01-08-2021 06:12:48 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:12:48 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:12:48 | imap_monitor | INFO | server connection established
+01-08-2021 06:12:48 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:12:49 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:12:49 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:12:49 | imap_monitor | INFO | folder selected
+01-08-2021 06:12:49 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:12:52 | imap_monitor | INFO | ... script started
+01-08-2021 06:12:52 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:12:52 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:12:52 | imap_monitor | INFO | server connection established
+01-08-2021 06:12:52 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:12:52 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:12:52 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:12:52 | imap_monitor | INFO | folder selected
+01-08-2021 06:12:52 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:12:55 | imap_monitor | INFO | ... script started
+01-08-2021 06:12:55 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:12:55 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:12:55 | imap_monitor | INFO | server connection established
+01-08-2021 06:12:55 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:12:55 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:12:55 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:12:55 | imap_monitor | INFO | folder selected
+01-08-2021 06:12:55 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:13:11 | imap_monitor | INFO | ... script started
+01-08-2021 06:13:11 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:13:11 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:13:11 | imap_monitor | INFO | server connection established
+01-08-2021 06:13:11 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:13:11 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:13:11 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:13:11 | imap_monitor | INFO | folder selected
+01-08-2021 06:13:11 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:14:26 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:16:27 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:18:26 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:20:26 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:22:26 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:24:26 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:25:04 | imap_monitor | INFO | ... script started
+01-08-2021 06:25:04 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:25:04 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:25:04 | imap_monitor | INFO | server connection established
+01-08-2021 06:25:04 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:25:04 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:25:04 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:25:04 | imap_monitor | INFO | folder selected
+01-08-2021 06:25:04 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:25:25 | imap_monitor | INFO | ... script started
+01-08-2021 06:25:25 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:25:25 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:25:25 | imap_monitor | INFO | server connection established
+01-08-2021 06:25:25 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:25:25 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:25:25 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:25:25 | imap_monitor | INFO | folder selected
+01-08-2021 06:25:25 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:25:31 | imap_monitor | INFO | ... script started
+01-08-2021 06:25:31 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:25:31 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:25:31 | imap_monitor | INFO | server connection established
+01-08-2021 06:25:31 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:25:31 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:25:31 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:25:31 | imap_monitor | INFO | folder selected
+01-08-2021 06:25:31 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:25:46 | imap_monitor | INFO | ... script started
+01-08-2021 06:25:46 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:25:46 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:25:46 | imap_monitor | INFO | server connection established
+01-08-2021 06:25:46 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:25:46 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:25:46 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:25:46 | imap_monitor | INFO | folder selected
+01-08-2021 06:25:47 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:25:51 | imap_monitor | INFO | ... script started
+01-08-2021 06:25:51 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:25:51 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:25:51 | imap_monitor | INFO | server connection established
+01-08-2021 06:25:51 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:25:51 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:25:51 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:25:51 | imap_monitor | INFO | folder selected
+01-08-2021 06:25:51 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:25:53 | imap_monitor | INFO | ... script started
+01-08-2021 06:25:53 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:25:53 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:25:54 | imap_monitor | INFO | server connection established
+01-08-2021 06:25:54 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:25:54 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:25:54 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:25:54 | imap_monitor | INFO | folder selected
+01-08-2021 06:25:54 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:26:26 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:26:57 | imap_monitor | INFO | ... script started
+01-08-2021 06:26:57 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:26:57 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:26:57 | imap_monitor | INFO | server connection established
+01-08-2021 06:26:57 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:26:57 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:26:57 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:26:57 | imap_monitor | INFO | folder selected
+01-08-2021 06:26:57 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:27:02 | imap_monitor | INFO | ... script started
+01-08-2021 06:27:02 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:27:02 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:27:02 | imap_monitor | INFO | server connection established
+01-08-2021 06:27:02 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:27:02 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:27:02 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:27:02 | imap_monitor | INFO | folder selected
+01-08-2021 06:27:02 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:27:18 | imap_monitor | INFO | ... script started
+01-08-2021 06:27:18 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:27:18 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:27:18 | imap_monitor | INFO | server connection established
+01-08-2021 06:27:18 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:27:18 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:27:18 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:27:18 | imap_monitor | INFO | folder selected
+01-08-2021 06:27:18 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:27:24 | imap_monitor | INFO | ... script started
+01-08-2021 06:27:24 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:27:24 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:27:24 | imap_monitor | INFO | server connection established
+01-08-2021 06:27:24 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:27:25 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:27:25 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:27:25 | imap_monitor | INFO | folder selected
+01-08-2021 06:27:25 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:27:28 | imap_monitor | INFO | ... script started
+01-08-2021 06:27:28 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:27:28 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:27:28 | imap_monitor | INFO | server connection established
+01-08-2021 06:27:28 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:27:28 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:27:28 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:27:28 | imap_monitor | INFO | folder selected
+01-08-2021 06:27:28 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:27:48 | imap_monitor | INFO | ... script started
+01-08-2021 06:27:48 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:27:48 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:27:48 | imap_monitor | INFO | server connection established
+01-08-2021 06:27:48 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:27:49 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:27:49 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:27:49 | imap_monitor | INFO | folder selected
+01-08-2021 06:27:49 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:28:26 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:28:37 | imap_monitor | INFO | ... script started
+01-08-2021 06:28:37 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:28:37 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:28:38 | imap_monitor | INFO | server connection established
+01-08-2021 06:28:38 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:28:38 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:28:38 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:28:38 | imap_monitor | INFO | folder selected
+01-08-2021 06:28:38 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:28:41 | imap_monitor | INFO | ... script started
+01-08-2021 06:28:41 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:28:41 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:28:41 | imap_monitor | INFO | server connection established
+01-08-2021 06:28:41 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:28:42 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:28:42 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:28:42 | imap_monitor | INFO | folder selected
+01-08-2021 06:28:42 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:28:46 | imap_monitor | INFO | ... script started
+01-08-2021 06:28:46 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:28:46 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:28:46 | imap_monitor | INFO | server connection established
+01-08-2021 06:28:46 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:28:46 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:28:46 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:28:46 | imap_monitor | INFO | folder selected
+01-08-2021 06:28:46 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:28:50 | imap_monitor | INFO | ... script started
+01-08-2021 06:28:50 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:28:50 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:28:50 | imap_monitor | INFO | server connection established
+01-08-2021 06:28:50 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:28:50 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:28:50 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:28:50 | imap_monitor | INFO | folder selected
+01-08-2021 06:28:50 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:28:53 | imap_monitor | INFO | ... script started
+01-08-2021 06:28:53 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:28:53 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:28:53 | imap_monitor | INFO | server connection established
+01-08-2021 06:28:53 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:28:53 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:28:53 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:28:53 | imap_monitor | INFO | folder selected
+01-08-2021 06:28:53 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:29:09 | imap_monitor | INFO | ... script started
+01-08-2021 06:29:09 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:29:09 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:29:09 | imap_monitor | INFO | server connection established
+01-08-2021 06:29:09 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:29:09 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:29:09 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:29:09 | imap_monitor | INFO | folder selected
+01-08-2021 06:29:09 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:30:26 | imap_monitor | WARNING | 0 new unread messages - []
+01-08-2021 06:31:43 | imap_monitor | INFO | ... script started
+01-08-2021 06:31:43 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:31:43 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:31:43 | imap_monitor | INFO | server connection established
+01-08-2021 06:31:43 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:31:44 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:31:44 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:31:44 | imap_monitor | INFO | folder selected
+01-08-2021 06:31:44 | imap_monitor | WARNING | 0 unread messages seen - []
+01-08-2021 06:31:49 | imap_monitor | INFO | ... script started
+01-08-2021 06:31:49 | imap_monitor | INFO | setting path for email downloads - ./download
+01-08-2021 06:31:49 | imap_monitor | INFO | connecting to IMAP server - mail.webiptek.com
+01-08-2021 06:31:49 | imap_monitor | INFO | server connection established
+01-08-2021 06:31:49 | imap_monitor | INFO | logging in to IMAP server - user@webiptek.com
+01-08-2021 06:31:50 | imap_monitor | INFO | login successful - b'Logged in'
+01-08-2021 06:31:50 | imap_monitor | INFO | selecting IMAP folder - INBOX
+01-08-2021 06:31:50 | imap_monitor | INFO | folder selected
+01-08-2021 06:31:50 | imap_monitor | WARNING | 0 unread messages seen - []
